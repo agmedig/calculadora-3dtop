@@ -1,0 +1,15 @@
+{
+  "name": "Calculadora 3DTop",
+  "short_name": "3DTop",
+  "description": "Custo, preço de venda e lucro das peças impressas em 3D.",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1650d8",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
